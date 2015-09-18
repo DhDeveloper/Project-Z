@@ -1,0 +1,15 @@
+#Equinox secure storage version 1.0
+#Wed Jun 17 15:51:07 IST 2015
+/Force\ Projects/Z\ Project/token=org.eclipse.equinox.security.windowspasswordprovider64bit\t6muKi+pbHaQ\=,wz+TEVaiyT3G/4wDuZtH5GU/DSrgFXOyCohZ6RRIMC4\=
+/Force\ Projects/Z\ Project/password=org.eclipse.equinox.security.windowspasswordprovider64bit\tDC0o9/Itrks\=,zwB2H/3llg2QmhHtLc/0hA\=\=
+/Force\ Projects/FireEye\ BDev/password=org.eclipse.equinox.security.windowspasswordprovider64bit\tqIwA8uUPrEM\=,p7w34x+fRCXa95bHceN7rQ\=\=
+/Force\ Projects/FESprint/token=org.eclipse.equinox.security.windowspasswordprovider64bit\ta0SUGKc8yak\=,5QLvtIzpNe1iQKg6KH0Jjs5LMmB0EF3eiNuenvbibSA\=
+/org.eclipse.equinox.secure.storage/windows64/encryptedPassword=\t,QVFBQUFOQ01uZDhCRmRFUmpIb0F3RS9DbCtzQkFBQUE3clRhYzBScHZrT293dkRscjhCS2hBQUFBQUFRQUFBQVJRQnhBSFVBYVFCdUFHOEFlQUFBQUFObUFBREFBQUFBRUFBQUFNaC8yVmFJdUFkdk15YWFyRExFR3ZzQUFBQUFCSUFBQUtBQUFBQVFBQUFBK2xkUUZOQUhvN28xa2JxYWhHekxOMWdCQUFCUThqUnNrQm1EUnltL2VieEZzbTVQTGJzdzlJN2VRY2lURU9VNUhIYnJoc3l2eWxIdFlwSTZ4YVQ1bHpETUp1Rk1oU080K2M0emVXRU8wRlJjdGhzU1BNTFpJd21zVXk0M0RKZHcwbldmZmxnbS93T0d5NThDTDV3SHRlNjllNmRBNDVGUEdINVhvYUxkc3JQajFPR041blJYOERrVm16REp6d3BUcUU1ai9ZUm1uUDUwK2V1YVEyeThNYjlkalQzNG5VcnFoMytwL0xWeENDSlAyMnh4RTVJR3VvUDBIeWcyUVdUT2drajF4aE1QM2VnSWdkM2J5ZlhhVW5oNFdmVUYxTWhiK0dXT0gyZUVzc2Q2cUU3MnlhQUtWT21NTHdsck4vN2l2N0pxVGlaT3JNQysxWlZGT1JHT0hKNEFMbWcrQkdyRmkvTjFuQ2tiQjNwSktsc0oxMlFxWFdCbE5oUDRqUlA3Y3MxTkJqbkl5TXBpYXpYejA5TnF2WXJSc05NQWJqcCtWYXJ3OXNFTlIxMWVIbkJVWWZEUkVIQnhKcVlrUUc1WDJybVNaVW9CQmxteUNZa3AzTEo4S1ExT0ZzT253MU1KemhXMjlSUUFBQUNWdGJjbEJFNkt2ZW50Q2N0THd6bndiRFNidmc9PQ\=\=
+org.eclipse.equinox.security.preferences.version=1
+org.eclipse.equinox.security.preferences.keyFactory=PBEWithMD5AndDES
+/Force\ Projects/Sample\ Project/password=org.eclipse.equinox.security.windowspasswordprovider64bit\tSrkp2Eg09V4\=,qSFMojyDRUiWEfL4qnQwgg\=\=
+/Force\ Projects/FESprint/password=org.eclipse.equinox.security.windowspasswordprovider64bit\t70Gs7vMwGG0\=,obB8MiRYnaBPKWDzreCNjg\=\=
+/Force\ Projects/Sample\ Project/token=org.eclipse.equinox.security.windowspasswordprovider64bit\tIqqEGfnhYv8\=,DDGcrQpSP5pd/KXzRqyI1j4UVFR+pgAqFVbjKoI2Jus\=
+/org.eclipse.equinox.secure.storage/verification/org.eclipse.equinox.security.windowspasswordprovider64bit=org.eclipse.equinox.security.windowspasswordprovider64bit\tWq2VFeBd9s0\=,/LVmVZ6qNZSAIBaWc1BIaYFGMAuKTEmV
+org.eclipse.equinox.security.preferences.cipher=PBEWithMD5AndDES
+/Force\ Projects/FireEye\ BDev/token=org.eclipse.equinox.security.windowspasswordprovider64bit\tJHQLIX3tk4Q\=,hETpStGBpfhjoBXCk0IH1AXs+/F7qIgNTwlRqqXjoaY\=
